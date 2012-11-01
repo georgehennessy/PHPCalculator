@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
 <meta charset=utf-8>
-<title>PHP Calculator</title>	
+<title>PHP OOP Calculator</title>	
 </head>
 <body>
 
@@ -23,6 +23,6 @@
 	echo $calc->getTotal();
 
 ?>
-
+</p>
 </body>
 </html>
